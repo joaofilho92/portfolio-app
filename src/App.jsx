@@ -15,7 +15,7 @@ function App() {
       <main className="main">
         <Home />
         <About />
-        <Portfolio/>
+        {/*<Portfolio/>*/}
         <TechStack />
         <Contact />
         <Footer />

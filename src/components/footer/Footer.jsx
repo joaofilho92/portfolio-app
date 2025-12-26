@@ -23,14 +23,14 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/joao-batista-sviluppatorefrontend/?locale=it_IT"
+            href="https://www.linkedin.com/in/joao-batista-sviluppatoredelphi/?locale=it_IT"
             className="footer__social-link"
             target="_blank"
           >
             <i class="bx bxl-github"></i>
           </a>
         </div>
-        <span className='footer__copy'>&#169; 2023 Joao Batista Lopes Filho. All Rights reserved.</span>
+        <span className='footer__copy'>&#169; 2026 Joao Batista Lopes Filho. All Rights reserved.</span>
       </div>
     </footer>
   );

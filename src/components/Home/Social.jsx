@@ -20,7 +20,7 @@ const Social = () => {
       </a>
 
       <a
-        href="https://www.linkedin.com/in/joao-batista-sviluppatorefrontend/?locale=it_IT"
+        href="https://www.linkedin.com/in/joao-batista-sviluppatoredelphi/?locale=it_IT"
         className="home__social-icon"
         target="_blank"
       >
